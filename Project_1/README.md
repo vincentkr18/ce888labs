@@ -4,8 +4,8 @@ The main aim of the two assignments is to analyse data and present your analysis
 
 The codes for Assignment 2 for three datasets are present outside their individual directory and the names have been listed below
 
-Dataset1 - Breast Cancer Code -->  breast-cancer-Autoencoder_final.ipynb
-Dataset2 - Census Income Code -->  Census_autoencoder_final.ipynb
+Dataset1 - Breast Cancer Code -->  breast-cancer-Autoencoder_final.ipynb, 
+Dataset2 - Census Income Code -->  Census_autoencoder_final.ipynb, 
 Dataset3 - Santander customer satisfaction Code -->  santander_autoencoder.ipynb
 
 
